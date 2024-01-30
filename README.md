@@ -11,7 +11,7 @@
   <li>Anggota:</li>
   <ul>
     <li>Ketua: <a href="">Dzikri Tsani Ramadhan Nurjamil</a></li>
-    <li>Anggota 1: <a href="">Salman Azhar Latisio</a></li>
+    <li>Anggota 1: <a href="">[Salman Azhar Latisio](https://github.com/Salz30/Tugas-besar-struktur-data.git)</a></li>
     <li>Anggota 2: <a href="">Luthfy Arief</a></li>
   </ul>
 </ul>
