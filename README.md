@@ -45,16 +45,18 @@
 
 ## Komponen Proyek
 <ol>
-<li>Class Daftar PlayStation:</li>
-<p>Struktur Data: Kelas ini digunakan untuk merepresentasikan objek PlayStation. Struktur data pada kelas ini melibatkan atribut nama, harga, dan stok.</p>
-  <p>Tipe Data:</p>
-  <ul>
-    <li>'String': Untuk menyimpan nama PlayStation.</li>
-    <li>'int': Untuk menyimpan harga dan stok.</li>
-  </ul>
-
-
-
+<li>Struktur Data:</li>
+<ul>
+  <li>Arraylist</li>
+  <p>Array dalam program ini digunakan untuk Daftar ps dan transaksi untuk menyimpan data peminjam</p>
+  <li>Record</li>
+  <p>Record dipakai untuk menyimpan data jenis PS, Harga sewa PS, dan Stok PS</p>
+  <li>Searching</li>
+  <p>Dalam menu daftar menu ada untuk menu pencarian peminjam, kelompok kami menambahkan searching untuk pencarian data peminjam berdasarkan Nama peminjam</p>
+  <li>Linked List</li>
+  <p>Pada bagian ini Linked List dipakai untuk menyimpan data peminjam di menu riwayat peminjaman</p>
+  <li></li>
+</ul>
   
 </ol>
 
