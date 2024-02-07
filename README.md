@@ -61,7 +61,12 @@
 </ol>
 
 ## Pembagian Tim
-<p>Lorem ipsum sir dolor amet.</p>
+<ol>
+  <li>Dzikri Tsani : Perancangan Aplikasi</li>
+  <li>Lutfi Arief : Membuat menu bagian peminjaman, pengembalian, history</li>
+  <li>Salman Azhar Latisio : membuat OOP, pemilihan Struktur data, dan menu diskon</li>
+</ol>
+ 
 
 ## Demo Proyek
 <ul>
