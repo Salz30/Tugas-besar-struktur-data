@@ -70,6 +70,6 @@
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="">Github</a></li>
+  <li>Github: <a href="">[Github](https://github.com/Salz30/Tugas-besar-struktur-data)</a></li>
   <li>Youtube: <a href="">Youtube</a></li>
 </ul>
