@@ -55,9 +55,9 @@
   <p>Dalam menu daftar menu ada untuk menu pencarian peminjam, kelompok kami menambahkan searching untuk pencarian data peminjam berdasarkan Nama peminjam</p>
   <li>Linked List</li>
   <p>Pada bagian ini Linked List dipakai untuk menyimpan data peminjam di menu riwayat peminjaman</p>
-  <li></li>
+  <li>Stack</li>
+  <p>Penggunaan Stack pada kodingan ini di gunakan secara tidak langsung melainkan melalui pendekatan linked list sehinnga Fungsi dari struktur data ini adalah untuk menyimpan riwayat peminjaman PlayStation namun prinsip kerja nya mirip dengan Stack. </p>
 </ul>
-  
 </ol>
 
 ## Pembagian Tim
